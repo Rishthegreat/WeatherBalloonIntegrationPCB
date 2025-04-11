@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TSL_Footprints")(type "KiCad")(uri "${KIPRJMOD}/TSL_Libraries/TSL_Footprints.pretty")(options "")(descr ""))
+)

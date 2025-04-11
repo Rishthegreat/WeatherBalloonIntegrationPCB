@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "IntegrationPCBCustom")(type "KiCad")(uri "${KIPRJMOD}/IntegrationPCBCustom.kicad_sym")(options "")(descr ""))
+  (lib (name "TSL_Symbols")(type "KiCad")(uri "${KIPRJMOD}/TSL_Libraries/TSL_Symbols.kicad_sym")(options "")(descr ""))
+)
